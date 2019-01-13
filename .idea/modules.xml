@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ChunlianView.iml" filepath="$PROJECT_DIR$/ChunlianView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chulianview/chulianview.iml" filepath="$PROJECT_DIR$/chulianview/chulianview.iml" />
     </modules>
   </component>
 </project>
